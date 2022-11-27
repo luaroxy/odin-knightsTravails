@@ -1,6 +1,6 @@
 # Knights Travails
 
-This project will show the shortest possible way to get from one square to another by outputting all squares the knight will stop on along the way.
+This project will show the shortest possible way to get from one square to another by outputting all squares the knight will stop on along the way using BFS.
 
 The function `knightMoves` will take the start and end squares and return the number of moves and the path. For example:
 \
